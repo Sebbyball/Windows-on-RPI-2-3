@@ -24,3 +24,8 @@ Your download will take 10mins-1hour, when it has finished it will prompt you to
 Insert your SD card into your computer.
 Open worproject.ml in Microsoft Edge and download the latest version of the WOR Imager tool.
 Extract your file to it's own folder and run it.
+Follow the instructions on the WOR imager tool and when it askes you to upload your windows file, upload the disk image file from the download before.
+When it asks you to upload the drivers and the EUFI firmware click download the latest version from the web.
+Once it has finished downloading, place your SD card into your raspberry pi and follow the setup instructions.
+
+# You have now finished your very own Windows RPI PC!
