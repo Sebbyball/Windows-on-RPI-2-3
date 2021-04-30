@@ -1,5 +1,6 @@
 # Windows-on-RPI-2-3
 How to install Windows 10 ARM64 on raspberry pi 2/3
+(Windows software is quite slow on the Raspberry Pi)
 
 # Equipment:
 1. SD card (at least 16GB or more)
